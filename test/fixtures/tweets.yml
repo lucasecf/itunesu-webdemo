@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  message: MyString
+  timestap: 2015-03-03 11:01:33
+  creator_id: 
+
+two:
+  message: MyString
+  timestap: 2015-03-03 11:01:33
+  creator_id: 
